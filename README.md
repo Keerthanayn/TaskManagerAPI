@@ -1,4 +1,4 @@
-Task Manager REST API
+Task Manager REST API ----- 
 A beginner-friendly REST API built using Python and Flask to manage tasks through CRUD operations.
 Features
 - Create a new task
